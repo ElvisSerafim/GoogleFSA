@@ -1,0 +1,2 @@
+# GoogleFSA
+System that simulates the operation of Google Search. Using a folder that contains almost 5.000 files as database for the search. Beyond searching, system has extras functionalities, as seeing the words more researched in program.The application also has graphical interface, made on JavaFX. Developed by Elvis Serafim and Matheus Nascimento, students of Universidade Estadual de Feira de Santana.
